@@ -1,5 +1,5 @@
 Swisher is a simple Vue app.
-You can easily search for your favourite team stats.
+You can easily search for your favourite NBA team stats.
 
 App uses an 'API-NBA' API, delivered by rapidapi.com
 
